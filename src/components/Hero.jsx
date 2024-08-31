@@ -1,5 +1,5 @@
 // import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/kevinRushProfile.png";
+// import profilePic from "../assets/kevinRushProfile.png";
 import { client } from "../client";
 import { useEffect, useState } from "react";
 // import profilePic from "../assets/mosesArulvin.png"
